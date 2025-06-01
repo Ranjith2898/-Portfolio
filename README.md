@@ -21,3 +21,6 @@ Passionate about Data Science | Skilled in SQL, Power BI, Python, Excel
 - JavaScript
 
 ## 📂 Folder Structure
+- index.html
+- style.css
+- script.js
