@@ -16,8 +16,8 @@ Passionate about Data Science | Skilled in SQL, Power BI, Python, Excel
 - Clean design suitable for resumes or GitHub Pages
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript
 
 ## 📂 Folder Structure
